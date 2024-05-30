@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Playfair+Display&family=Poppins&display=swap');
+
+html, body {
+   height: 100%;
+   background-color: #fff;
+   color: #282A3A;
+   font-family: 'Inter', sans-serif;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 24px;
+}
+
+*,
+*::before,
+*::after {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   box-sizing: border-box;
+}
+
+a {
+   text-decoration: none;
+   cursor: pointer;
+}
+
+h1,h2,h3,h4,h5,h6 {
+   font-size: inherit;
+   font-weight: inherit;
+}
+
+img {
+   vertical-align: top;
+   height: 100%;
+   width: 100%;
+}
+
+ol, ul, li {
+   list-style: none;
+}
